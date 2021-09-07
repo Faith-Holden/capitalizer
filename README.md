@@ -1,6 +1,6 @@
 # capitalizer
 
-My solution for Chapter  Exercise  of “Introduction to Programming Using Java”.
+My solution for Chapter 4 Exercise 1 of “Introduction to Programming Using Java”.
 
 Problem Description:
 To “capitalize” a string means to change the first letter of each word in the string to upper
